@@ -77,8 +77,8 @@ img {
     width: 100%;
     max-width: 800px;
     display: block;
-    margin: auto 15px;
-    border-radius: 15px;
+    margin: 15px auto;
+    border-radius: 10px;
     object-fit: cover;
 }
 
